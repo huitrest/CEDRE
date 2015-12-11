@@ -1,7 +1,14 @@
-#include "fenetrecreationidee.h"
+#ifndef FENETRECREATIONIDEE_H
+#define FENETRECREATIONIDEE_H
 
-FenetreCreationIdee::FenetreCreationIdee()
+#include <QTextEdit>
+
+class FenetreCreationIdee: public QWidget
 {
-    setFixedSize(40, 40);
-    m_nomIdee = new QTextEdit("aaa");
-}
+public:
+    FenetreCreationIdee();
+private:
+    QTextEdit* m_nomIdee;
+};
+
+#endif // FENETRECREATIONIDEE_H
