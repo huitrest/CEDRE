@@ -1,5 +1,4 @@
-# CEDRE
-Simulateur Carte cognitive 2015 est un logiciel de création de schéma, supposé refléter le fonctionnement de la pensée, qui permet de représenter visuellement et de suivre le cheminement associatif de la pensée.
+Carte cognitive est un logiciel de création de schéma, supposé refléter le fonctionnement de la pensée, qui permet de représenter visuellement et de suivre le cheminement associatif de la pensée.
 
 Cela permet de mettre en lumière les liens qui existent entre un concept ou une idée, et les informations qui leur sont associées.
 
